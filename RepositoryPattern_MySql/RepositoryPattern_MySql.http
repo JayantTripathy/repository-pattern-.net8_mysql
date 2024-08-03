@@ -1,0 +1,6 @@
+@RepositoryPattern_MySql_HostAddress = http://localhost:5237
+
+GET {{RepositoryPattern_MySql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
